@@ -18,3 +18,4 @@ for num in range(1, 10000):
                 result += num // factor
     if result == num:
         print(num)
+1
